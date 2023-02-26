@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hassnain</h1>
 <h3 align="center">A passionate front-end developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassnainkazmi&label=Profile%20views&color=0e75b6&style=flat" alt="hassnainkazmi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hassnainkazmi" alt="hassnainkazmi" /></a> </p>
-
 - 🔭 I’m currently working on [Login Module](https://github.com/HassnainKazmi/React-Login-Module)
 
 - 🌱 I’m currently learning **React JS**
@@ -19,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syed hassnain kazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed hassnain kazmi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/syedhassnainkazmi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syedhassnainkazmi/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syedhassnainkazmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedhassnainkazmi" height="30" width="40" /></a>
 </p>
 
