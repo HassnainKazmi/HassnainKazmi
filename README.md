@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HassnainKazmi](https://github.com/HassnainKazmi)
 
-- 💬 Ask me about **HTML5, CSS3, Bootstrap5, JavaScript**
+- 💬 Ask me about **JavaScript, Bootstrap, CSS, HTML**
 
 - 📫 How to reach me **hassnainkazmi@gmail.com**
 
