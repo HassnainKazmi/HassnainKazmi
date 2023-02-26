@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hassnainkazmi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q7n6STbly1V4w9Xjpj8FeSXzsg8_yTSs/view?usp=share_link](https://drive.google.com/file/d/1q7n6STbly1V4w9Xjpj8FeSXzsg8_yTSs/view?usp=share_link)
+- 📄 Resume [https://drive.google.com/file/d/1q7n6STbly1V4w9Xjpj8FeSXzsg8_yTSs/view?usp=share_link](https://drive.google.com/file/d/1q7n6STbly1V4w9Xjpj8FeSXzsg8_yTSs/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
