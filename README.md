@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **Node JS, Express JS, MongoDB**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/HassnainKazmi](https://github.com/HassnainKazmi)
+- 👨‍💻 All of my projects are available at: [Hassnain's GitHub](https://github.com/HassnainKazmi?tab=repositories)
+
 
 - 💬 Ask me about: **React JS, JavaScript, Bootstrap, CSS, HTML**
 
