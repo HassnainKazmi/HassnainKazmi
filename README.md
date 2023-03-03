@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hassnain!</h1>
 <h3 align="center">From building hardware to crafting software, a new journey for a computer engineer turned software engineer.</h3>
 
-- 🔭 I’m currently working on [User Authentication System]([https://github.com/HassnainKazmi/User-Authentication-System](https://github.com/HassnainKazmi))
+- 🔭 I’m currently working on [User Authentication System](https://github.com/HassnainKazmi/User-Authentication-System)
 
 - 🌱 I’m currently learning **React JS**
 
