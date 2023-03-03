@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [User Authentication System](https://github.com/HassnainKazmi/User-Authentication-System)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Node JS, Express JS, MongoDB**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/HassnainKazmi](https://github.com/HassnainKazmi)
 
