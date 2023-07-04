@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently focusing on **building my portfolio**
 
-- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, Bootstrap, CSS, HTML**
+- 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **hassnainkazmi07@gmail.com**
+- 📫 How to reach out to me: **hassnainkazmi07@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1opQqb2SWaYUVG3BDCVfkd9Q3nbzIZzI9/view?usp=drive_link](https://drive.google.com/file/d/1opQqb2SWaYUVG3BDCVfkd9Q3nbzIZzI9/view?usp=drive_link)
+- 📄 Resume: [https://drive.google.com/file/d/1opQqb2SWaYUVG3BDCVfkd9Q3nbzIZzI9/view?usp=drive_link](https://drive.google.com/file/d/1opQqb2SWaYUVG3BDCVfkd9Q3nbzIZzI9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
