@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hassnain</h1>
+<h1 align="center">Hi, I'm Hassnain</h1>
 <h3 align="center">From building hardware to crafting software, a new journey for a computer engineer turned software engineer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
