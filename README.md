@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Furniture Store](https://hassnainkazmi.github.io/Ecommerce-Furniture-Store/)
 
-- 🌱 I’m currently focusing on **portfolio**
+- 🌱 I’m currently focusing on building **my portfolio**
 
 - 💬 Ask me about **MERN Stack**
 
