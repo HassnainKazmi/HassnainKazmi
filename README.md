@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 
-- 🔭 I’m currently working on [Ecommerce Furniture Store](https://hassnainkazmi.github.io/Ecommerce-Furniture-Store/)
+- 🔭 I’m currently working on [Ecommerce Furniture Store](https://github.com/HassnainKazmi/Ecommerce-Furniture-Store)
 
 - 🌱 I’m currently focusing on building **my portfolio**
 
