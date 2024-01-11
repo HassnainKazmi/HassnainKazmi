@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 
-- 🌱 I’m currently focusing on **Master's degree** and building **my portfolio**
+- 🌱 I’m currently focusing on my **Master's degree** and building **portfolio**
 
 - 💬 Ask me about **Software Development*
 
