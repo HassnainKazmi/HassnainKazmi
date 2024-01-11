@@ -3,15 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 
-- 🔭 I’m currently working on [Ecommerce Furniture Store](https://github.com/HassnainKazmi/Ecommerce-Furniture-Store)
+- 🌱 I’m currently focusing on "Master's degree" and building **my portfolio**
 
-- 🌱 I’m currently focusing on building **my portfolio**
-
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Software Development*
 
 - 📫 How to reach out to me: **hassnainkazmi07@gmail.com**
-
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1opQqb2SWaYUVG3BDCVfkd9Q3nbzIZzI9/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
