@@ -6,36 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:syedhassnainkazmi07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-syedhassnainkazmi07@gmail.com-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/syedhassnainkazmi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/hassnainkazmi">
-    <img src="https://img.shields.io/badge/GitHub-hassnainkazmi-black?style=flat&logo=github" alt="GitHub" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" alt="Coding gif">
 </p>
 
----
-
-<table>
-  <tr>
-    <td width="220" valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180" alt="Coding gif" />
-    </td>
-    <td valign="top">
-      <ul>
-        <li>🎓 Currently pursuing a Master’s in <strong>Computer Science</strong></li>
-        <li>💼 Working as a <strong>Full Stack Engineer (Working Student)</strong></li>
-        <li>⚙️ Building scalable, high-performance web apps</li>
-        <li>🧠 Interested in how <strong>AI/ML intersects with and integrates into software engineering</strong> to build intelligent, scalable systems</li>
-        <li>🚀 Open to <strong>full-time software engineering roles</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+<ul>
+  <li>🎓 <strong>Currently pursuing a Master’s in Computer Science</strong></li>
+  <li>💼 <strong>Working as a Full Stack Engineer (Working Student)</strong></li>
+  <li>⚙️ Building scalable, high-performance web apps</li>
+  <li>🧠 Interested in how <strong>AI/ML intersects with and integrates into software engineering</strong> to build intelligent, scalable systems</li>
+  <li>🚀 Open to <strong>full-time software engineering roles</strong></li>
+</ul>
 
 ---
 
@@ -138,6 +118,6 @@
 ---
 
 <p align="center">
-  <em>“Programs must be written for people to read, and only incidentally for machines to execute.”<br />
-  — Harold Abelson</em>
+  <em>“Programs must be written for people to read, and only incidentally for machines to execute.”</em><br />
+  — <strong>Harold Abelson</strong>
 </p>
