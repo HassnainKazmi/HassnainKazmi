@@ -84,9 +84,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassnainkazmi&show_icons=true&theme=default" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassnainkazmi&layout=compact&langs_count=8&theme=default" height="160" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassnainkazmi&theme=default" height="160" alt="GitHub Streak" />
 </div>
 
