@@ -118,6 +118,7 @@
 ---
 
 <p align="center">
-  <em>“Programs must be written for people to read, and only incidentally for machines to execute.”</em><br />
-  — <strong>Harold Abelson</strong>
+  <em>“The function of good software is to make the complex appear to be simple.”</em><br />
+  — <strong>Grady Booch</strong>
 </p>
+
