@@ -19,19 +19,23 @@
 
 ---
 
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300" alt="Coding gif" align="right" />
-  <ul align="left">
-    <li>🎓 Currently pursuing a Master’s in <strong>Computer Science</strong></li>
-    <li>💼 Working as a <strong>Full Stack Engineer (Working Student)</strong></li>
-    <li>⚙️ Building scalable, high-performance web apps</li>
-    <li>🧠 Interested in how <strong>AI/ML intersects with and integrates into software engineering</strong> to build intelligent, scalable systems</li>
-    <li>🚀 Open to <strong>full-time software engineering roles</strong></li>
-  </ul>
-</div>
+<table>
+  <tr>
+    <td width="220" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="180" alt="Coding gif" />
+    </td>
+    <td valign="top">
+      <ul>
+        <li>🎓 Currently pursuing a Master’s in <strong>Computer Science</strong></li>
+        <li>💼 Working as a <strong>Full Stack Engineer (Working Student)</strong></li>
+        <li>⚙️ Building scalable, high-performance web apps</li>
+        <li>🧠 Interested in how <strong>AI/ML intersects with and integrates into software engineering</strong> to build intelligent, scalable systems</li>
+        <li>🚀 Open to <strong>full-time software engineering roles</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<br/>
 
 ---
 
