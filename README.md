@@ -9,13 +9,11 @@
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" alt="Coding gif">
 </p>
 
-<ul>
-  <li>🎓 <strong>Currently pursuing a Master’s in Computer Science</strong></li>
-  <li>💼 <strong>Working as a Full Stack Engineer (Working Student)</strong></li>
-  <li>⚙️ Building scalable, high-performance web apps</li>
-  <li>🧠 Interested in how <strong>AI/ML intersects with and integrates into software engineering</strong> to build intelligent, scalable systems</li>
-  <li>🚀 Open to <strong>full-time software engineering roles</strong></li>
-</ul>
+🎓 <strong>Currently pursuing a Master’s in Computer Science</strong><br />
+💼 <strong>Working as a Full Stack Engineer (Working Student)</strong><br />
+⚙️ Building scalable, high-performance web apps<br />
+🧠 Interested in how <strong>AI/ML intersects with and integrates into software engineering</strong> to build intelligent, scalable systems<br />
+🚀 Open to <strong>full-time software engineering roles</strong>
 
 ---
 
@@ -94,7 +92,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contributions
 
 <div align="center">
   <picture>
@@ -110,8 +108,11 @@
 
 <div align="center">
   <p>
-    <img src="https://img.icons8.com/color/24/gmail--v1.png" width="20" alt="Gmail icon" /> <strong>syedhassnainkazmi07@gmail.com</strong><br />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn icon" /> <a href="https://linkedin.com/in/syedhassnainkazmi">linkedin.com/in/syedhassnainkazmi</a>
+    <img src="https://img.icons8.com/color/24/gmail--v1.png" width="20" alt="Gmail icon" />
+    <a href="mailto:syedhassnainkazmi07@gmail.com"><strong>syedhassnainkazmi07@gmail.com</strong></a><br />
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn icon" />
+    <a href="https://linkedin.com/in/syedhassnainkazmi">linkedin.com/in/syedhassnainkazmi</a>
   </p>
 </div>
 
