@@ -1,5 +1,6 @@
 <h1 align="center">Hey, I'm Hassnain 👋</h1>
 
+<div style="font-size:1.1rem;">
 <p align="center">
   <strong>Engineer. Builder. Problem-Solver.</strong><br/>
   <em>I turn ideas into full-stack web experiences that are scalable, performant, and user-centered.</em>
@@ -8,12 +9,15 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200" alt="Coding gif">
 </p>
+</div>
 
+<div style="font-size:1.1rem;">
 🎓 <strong>Currently pursuing a Master’s in Computer Science</strong><br />
 💼 <strong>Working as a Full Stack Engineer (Working Student)</strong><br />
 ⚙️ Building scalable, high-performance web apps<br />
 🧠 Interested in how <strong>AI/ML intersects with and integrates into software engineering</strong> to build intelligent, scalable systems<br />
 🚀 Open to <strong>full-time software engineering roles</strong>
+</div>
 
 ---
 
